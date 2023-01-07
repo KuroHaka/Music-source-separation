@@ -1,8 +1,7 @@
 # Music-source-separation
 
+Please install all the dependencies with:
 ```
-git pull
-git add .
-git commit -m "message"
-git push
+pip install -r requirements.txt
 ```
+The model is too big to fit in Guthub, you can download them with the command located in [notebook.ipynb](https://github.com/KuroHaka/Music-source-separation/blob/main/notebook.ipynb)
